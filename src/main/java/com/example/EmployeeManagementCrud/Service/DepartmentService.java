@@ -1,7 +1,5 @@
 package com.example.EmployeeManagementCrud.Service;
 
-import com.example.EmployeeManagementCrud.Domain.Address;
-import com.example.EmployeeManagementCrud.Domain.AddressRepo;
 import com.example.EmployeeManagementCrud.Domain.Department;
 import com.example.EmployeeManagementCrud.Domain.DepartmentRepo;
 import com.example.EmployeeManagementCrud.Exception.EmployeeNotFoundException;

@@ -1,11 +1,7 @@
 package com.example.EmployeeManagementCrud.Controller;
 
-import com.example.EmployeeManagementCrud.Domain.Address;
 import com.example.EmployeeManagementCrud.Domain.Department;
-import com.example.EmployeeManagementCrud.Domain.Employee;
-import com.example.EmployeeManagementCrud.Service.AddressService;
 import com.example.EmployeeManagementCrud.Service.DepartmentService;
-import com.example.EmployeeManagementCrud.Service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

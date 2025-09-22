@@ -2,9 +2,6 @@ package com.example.EmployeeManagementCrud.Domain;
 
 import jakarta.persistence.*;
 
-import java.util.ArrayList;
-import java.util.List;
-
 @Entity
 @Table(name = "skills")
 public class Skills {
